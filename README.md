@@ -16,4 +16,4 @@ A multi-page restaurant website built using HTML, CSS, and JavaScript.
 - Contact Us (Form)
 
 ## Live Website
-https://wb414.github.io/cozy-bistro
+https://wb414.github.io/cozy-bistro/
